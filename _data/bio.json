@@ -29,17 +29,17 @@
   },
   "interests": [
     {
-      "name": "Software engineering",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
     {
-      "name": "typography/graphic design",
+      "name": "Typography/Graphic Design",
       "keywords": [
       ]
     },
     {
-      "name": "",
+      "name": "Information Technology",
       "keywords": [
       ]
     }
@@ -69,7 +69,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "",
+      "area": " ",
       "studyType": "Postgraduate",
       "startDate": "2020-08-24",
       "endDate": "Present",
