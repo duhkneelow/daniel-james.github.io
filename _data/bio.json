@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Daniel Nilo",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "picture": "https://duhkneelow.github.io/images/me.jpg",
     "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    /*"phone": "808-333-4444",*/
+    "website": "https://duhkneelow.github.io",
+    "summary": "",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,15 +17,15 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "duhkneelow",
+        "url": "http://github.com/duhkneelow"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "duhkneelow",
+        "url": "https://www.linkedin.com/in/duhkneelow/"
       },
-      {
+      /*{
         "network": "twitter",
         "username": "mollymal",
         "url": "http://twitter.com/changeme"
@@ -34,24 +34,24 @@
         "network": "instagram",
         "username": "molly",
         "url": "http://instagram.com/changeme"
-      }
+      }*/
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Software engineering",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        /*"Arduino",
+        "TI MSP430"*/
       ]
     },
     {
-      "name": "data mining",
+      "name": "typography/graphic design",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "",
       "keywords": [
       ]
     }
@@ -118,7 +118,7 @@
         "Answer phone and email responses to the ITS Help Desk"
       ]
     }
-  ],
+  ]/*,
   "volunteer": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
@@ -165,5 +165,5 @@
       "name": "Available upon request",
       "reference": ""
     }
-  ]
+  ]*/
 }
