@@ -3,7 +3,7 @@
     "name": "Daniel Nilo",
     "label": "Student",
     "picture": "https://duhkneelow.github.io/images/me.JPG",
-    "email": "molly@hawaii.edu",
+    "email": "dnilo@hawaii.edu",
     "phone": "",
     "website": "https://duhkneelow.github.io",
     "summary": "",
@@ -46,112 +46,93 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages (Familiar)",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
+        "HTML",
+        "CSS",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "SQL",
+        "C++"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Adobe (PhotoShop, DreamWeaver, Illustrator, etc.)",
+        "WordPress",
+        "TeamDynamix"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "",
+      "studyType": "Postgraduate",
+      "startDate": "2020-08-24",
       "endDate": "Present",
       "gpa": "",
       "courses": [
+      ]
+    },
+    {
+      "institution": "Hawaii Pacific University, Honolulu, HI",
+      "area": "Integrated Multimedia",
+      "studyType": "B.A.",
+      "startDate": "2016-01-26",
+      "endDate": "2019-05-09",
+      "gpa": "",
+      "courses": [
+        "HTML, CSS, & Web Design",
+        "Web Interface and Design",
+        "Advanced Web Design",
+        "Database Technologies",
+        "Internet Programming",
+        "Problem Solving & Programming using C++"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Expressions Photography",
+      "position": "Seasonal Photographer/Sales Associate",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "startDate": "2018-11-11",
+      "endDate": "2020-03-18",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Execute and edit photoshoots of small to large groups via Darkroom and Adobe Lightroom",
+        "Responsible for sales and customer service"
       ]
     },
     {
-      "organization": "",
+      "company": "Life Impressions Hawaii",
+      "position": "Graphic Intern/Web Designer",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "2018-12-10",
+      "endDate": "2019-06-29",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Assisted/completed varied graphic design projects based on client’s directives",
+        "Managed company’s website and e-commerce via Wordpress and Inksoft",
+        "Answered customers’ inquiries over the phone and in-person"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
+      "company": "Hawaii Pacific University",
+      "position": "Media Lab / Technical Analyst Assistant",
+      "website": "",
+      "startDate": "2018-08-20",
+      "endDate": "2019-04-30",
+      "summary": "",
+      "highlights": [
+        "Provided thoughtful and responsive technical support to instructors/students",
+        "Resolved hardware, software, and networking problems",
+        "Responsible for securing and managing extensive media lab inventory",
+        "Assisted students and instructors with audio and video equipment selection"
+      ]
     }
   ]
 }
