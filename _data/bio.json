@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://duhkneelow.github.io/images/me.jpg",
     "email": "molly@hawaii.edu",
-    /*"phone": "808-333-4444",*/
+    "phone": "",
     "website": "https://duhkneelow.github.io",
     "summary": "",
     "location": {
@@ -24,25 +24,13 @@
         "network": "linkedin",
         "username": "duhkneelow",
         "url": "https://www.linkedin.com/in/duhkneelow/"
-      },
-      /*{
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }*/
+      }
     ]
   },
   "interests": [
     {
       "name": "Software engineering",
       "keywords": [
-        /*"Arduino",
-        "TI MSP430"*/
       ]
     },
     {
@@ -118,7 +106,7 @@
         "Answer phone and email responses to the ITS Help Desk"
       ]
     }
-  ]/*,
+  ],
   "volunteer": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
@@ -165,5 +153,5 @@
       "name": "Available upon request",
       "reference": ""
     }
-  ]*/
+  ]
 }
