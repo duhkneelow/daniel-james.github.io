@@ -8,6 +8,12 @@ labels:
   - Software Engineering
   - Learning
 ---
+<div style="margin-top: 20px; margin-bottom: 20px" class="ui text container">
+  <h1>{{ Practice Makes Progress with JS }}</h1>
+  <span class="date">{{ page.date | date_to_string }}</span>
+  <hr>
+  {{ content }}
+</div>
 Refreshing on a programming language you have familiarized in the past can either be a walk in the park or an uphill battle.  Regardless of the time gap, it is exhilarating to strengthen your skills or challenge yourself to know what you are capable of.  Within that short span of time, I definitely reflected on how to improve myself with JavaScript in order to develop my software engineering skills.
 
 <img src="../images/priority.jpg">
