@@ -8,7 +8,6 @@ labels:
   - Software Engineering
   - Learning
 ---
-<div class="ui segment">
 Refreshing on a programming language you have familiarized in the past can either be a walk in the park or an uphill battle.  Regardless of the time gap, it is exhilarating to strengthen your skills or challenge yourself to know what you are capable of.  Within that short span of time, I definitely reflected on how to improve myself with JavaScript in order to develop my software engineering skills.
 
 ## Prioritize
@@ -22,4 +21,3 @@ Once you are confident that you have absorbed a lot of concepts with JavaScript,
 ## Conclusion
 <img class="ui small left floated image" src="../images/priority2.jpg">
 It seems pretty apparent that I have had experience with JavaScript before, but I am thrilled to dive right back in to this programming language.  Hopefully throughout and after this semester, I can be proficient with it as long as I prioritize and motivate myself every day.
-</div>
