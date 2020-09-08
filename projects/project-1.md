@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/avatar.jpg
+image: images/avatar.png
 title: Portfolio
 permalink: projects/portfolio
 # All dates must be YYYY-MM-DD format!
