@@ -25,4 +25,4 @@ Despite professors/experts telling students to not to be afraid to ask any quest
 
 ## Conclusion
 
-Although
+Although asking questions can be a person’s fear, the cure is to challenge yourself and prepare for the worst.  Also, remember it is OK if you do not understand the concept/assignment for the first try since there are plenty more of those to make sure you are on the road to success.  Reading Eric Raymond’s essay was an enlightening experience since it also made me reflect on the amount of stupid questions I asked to my professors.  If you are satisfied with the question you ask within your community, hopefully an expert would be more than glad to respond to it with confidence.
