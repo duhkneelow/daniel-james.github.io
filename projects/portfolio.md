@@ -18,7 +18,7 @@ In my portfolio, I created
 # Disclaimer - The companies are fictitious
 
   <img class="ui image" src="../images/persia1.png">
-Here is a link to my [portfolio].(http://http://danieljames.website/)
+Here is a link to my [portfolio].(http://danieljames.website/)
 
 
 
