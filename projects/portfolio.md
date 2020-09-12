@@ -11,9 +11,14 @@ labels:
   - Web Development
 summary: Please enjoy this portfolio I created during my undergraduate years.
 ---
+The portfolio that I made is a bunch of work that I made throughout my undergraduate years at Hawaii Pacific University.
+
+In my portfolio, I created 
+
+# Disclaimer - The companies are fictitious
 
   <img class="ui image" src="../images/persia1.png">
-
+Here is a link to my [portfolio].(http://http://danieljames.website/)
 
 
 
