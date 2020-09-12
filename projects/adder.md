@@ -11,6 +11,6 @@ labels:
   - Internet Programming
 summary: An exercise where you can brush up your adding skills!
 ---
-
+Are you wondering how 
 <img class="ui image" src="../images/adder.png">
 Here is the [link](http://daniel18.stem.ninja/math/math.html) for some practice.
