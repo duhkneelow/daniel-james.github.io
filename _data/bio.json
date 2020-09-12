@@ -42,6 +42,11 @@
       "name": "Information Technology",
       "keywords": [
       ]
+    },
+    {
+      "name": "Web Design/Development",
+      "keywords": [
+      ]
     }
   ],
   "skills": [
@@ -79,7 +84,7 @@
     },
     {
       "institution": "Hawaii Pacific University, Honolulu, HI",
-      "area": "Integrated Multimedia",
+      "area": "Integrated Multimedia","Minor in Computer Science",
       "studyType": "B.A.",
       "startDate": "2016-01-26",
       "endDate": "2019-05-09",
