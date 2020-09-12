@@ -20,4 +20,4 @@ Once you are confident that you have absorbed a lot of concepts with JavaScript,
 
 ## Conclusion
 <img class="ui small left floated image" src="../images/priority2.jpg">
-It seems pretty apparent that I have had experience with JavaScript before, but I am thrilled to dive right back in to this programming language.  Hopefully throughout and after this semester, I can be proficient with it as long as I prioritize and motivate myself every day.
+It seems pretty apparent that I have had experience with JavaScript before, but I am thrilled to dive right back in to this programming language.  Hopefully throughout and after this semester, I can be proficient with it as long as I prioritize and motivate myself every day.  With the tips and tricks I am learning as well as having the right mindset, I can be proficient not only with JavaScript, but also the languages we will be learning for the software engineering class.  As long as I am happy with the code I develop, then I am happy with what is to come.
