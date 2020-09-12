@@ -15,7 +15,7 @@ The portfolio that I made is a bunch of work that I made throughout my undergrad
 
 In my portfolio, I created 
 
-# Disclaimer - The companies are fictitious
+<b>Disclaimer - The companies are fictitious</b>
 
   <img class="ui image" src="../images/persia1.png">
   Here is a link to my [portfolio](http://danieljames.website/).
