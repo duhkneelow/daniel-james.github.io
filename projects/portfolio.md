@@ -18,7 +18,7 @@ In my portfolio, I created web design projects that range from a company creatin
 
 Since this was over a year ago, I found it nostalgic to look at since I was amazed with the work that I created, but with the software engineering class, I hope to improve myself and possess a lot more skills than what I honed during my undergraduate years.
 
-<b>Disclaimer - The companies are fictitious</b>
+<b>Disclaimer - The companies are fictitious</b><br>
 Here is a link to my [portfolio](http://danieljames.website/).
 
 
