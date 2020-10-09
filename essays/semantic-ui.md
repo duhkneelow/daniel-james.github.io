@@ -24,7 +24,12 @@ Now, some of you guys may be scratching your heads in confusion wondering, "How 
 
 When I was little, I was definitely not the best when it comes to grammar classes as I would stare at my homework assignments for minutes or maybe hours trying to understand the question and I would end up getting frustrated to the point where I would start to cry.  Luckily, with Semantic UI, it at least helped me a bit with those skills (even though I still have more room to improve).  One of the best tips I can definitely give to anyone interested with Semantic UI is ask yourself what type of element (Ex: a grid) do you want to put in your webpage and how do you want it to look like (Ex: Do you want it to be a stackable grid where you want the user to see every piece of information a lot more clearly?).  Since you want it to be a stackable grid, also ask yourself, how many columns do you want in your grid since a grid has columns (Ex: 2, 3, 4, etc.).  Put it all together and you get this wonderful piece of code:
 ```
-<div class="ui stackable four column grid">Text of your choice</div>
+<div class="ui stackable four column grid">
+    <div class="column">Text of your choice</div>
+    <div class="column">Text of your choice</div>
+    <div class="column">Text of your choice</div>
+    <div class="column">Text of your choice</div>
+</div>
 ```
 So as you can see, it may not be as challenging as you think even for some individuals whose first language may not be English, you just have to think quickly on your feet to get that line of code.
 
