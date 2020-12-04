@@ -11,7 +11,7 @@ labels:
 
 Now when you think of design patterns, I'm pretty sure you guys are literally thinking a specific design that could easily be an implement to your coding assignment.  Well my friend, let me tell you that you are wrong as it is way more than just putting in some lines of code to make it aesthetically pleasing to the user!  A design pattern is a type of solution that could be repurposed/reimplemented in software design applications.  With object orientation, the pattern will display how the classes/objects interact each other without specifying the classes/objects in the final application.  There are tons of design patterns utilized in software design, but there are four commonly used patterns: Factory, Singleton, Observer, and MVC.  With every single adjustment to a design pattern, you would essentially
 
-    ***"Spice a dish with love and it pleases every palate." -Plautus***
+***"Spice a dish with love and it pleases every palate." -Plautus***
 
 ## Spice Upon Spice, Flavor Upon Flavor
 
@@ -20,9 +20,9 @@ Being in this software engineering class taught by Professor Philip Johnson has 
 <img src="../images/haldidoodh.jpg">
 
 ## Milk and Coding
-<img class="ui small left floated image" src="../images/chart.png">
+<img src="../images/chart.png">
 Speaking of Singleton design patterns, I also realized the final project my group and I are developing, [Hawaii Covid Convo](https://hi-covid-convo.github.io), also implements a Singleton design pattern since the user gives a review they have to fill out, which will eventually be displayed in the Analytics page along with an array of reviews created by other various users.
-<img src="../images/analytics.png">
+<img class="ui small image" src="../images/analytics.png">
 
 The design template my group and I used for our application started out with the [Meteor React Application Template](https://ics-software-engineering.github.io/meteor-application-template-react/) provided by Professor Johnson as a way for us as well as the other sections to see how many applications we can develop within a fundamental design pattern.  To me, I found this similar to combinations of spices one can use to make golden milk/haldi doodh.  Overall, if you are struggling to comprehend a concept or find ways to flavor up a design pattern, visualize it in your head and eventually you can nama-slay whatever design pattern you have to handle.
 <br>
