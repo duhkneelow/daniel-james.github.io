@@ -22,6 +22,6 @@ Being in this software engineering class taught by Professor Philip Johnson has 
 ## Milk and Coding
 <img class="ui small left floated image" src="../images/chart.png">
 Speaking of Singleton design patterns, I also realized the final project my group and I are developing, [Hawaii Covid Convo](https://hi-covid-convo.github.io), also implements a Singleton design pattern since the user gives a review they have to fill out, which will eventually be displayed in the Analytics page along with an array of reviews created by other various users.
+
 The design template my group and I used for our application started out with the [Meteor React Application Template](https://ics-software-engineering.github.io/meteor-application-template-react/) provided by Professor Johnson as a way for us as well as the other sections to see how many applications we can develop within a fundamental design pattern.  To me, I found this similar to combinations of spices one can use to make golden milk/haldi doodh.  Overall, if you are struggling to comprehend a concept or find ways to flavor up a design pattern, visualize it in your head and eventually you can nama-slay whatever design pattern you have to handle.
-<img src="../images/analytics.png">
 <br>
