@@ -14,13 +14,11 @@ Now when you think of design patterns, I'm pretty sure you guys are literally th
 ***"Spice a dish with love and it pleases every palate." -Plautus***
 
 ## Spice Upon Spice, Flavor Upon Flavor
-
+<img class="ui centered medium image" src="../images/haldidoodh.jpg">
 Being in this software engineering class taught by Professor Philip Johnson has been eye-opening to me and when I was watching his screencasts about design patterns, I immediately thought of my craze with Indian cuisine as, for some people, is known to have a various amount of spices harmoniously building up levels of flavor.  Ever since the start of this semester, one item which I have been making for myself is a drink called [haldi doodh](https://www.cookwithmanali.com/golden-milk-masala-haldi-doodh/) (also called golden milk).  For those who are interested, the base of this drink consists of milk and turmeric.  After that, you put in a selection of spices such as cardamom and ginger and let it all simmer to get a warmly spiced drink.  When I recently made it this evening, I realized it is similar to a Singleton design pattern because with the spices I have access to in my kitchen, I created a drink where I taste the spices I have simmered and steeped inside my drink.
 
-<img src="../images/haldidoodh.jpg">
-
 ## Milk and Coding
-<img src="../images/analytics.png">
+<img class="ui centered medium image" src="../images/analytics.png">
 <img class="ui small left floated image" src="../images/chart.png">
 Speaking of Singleton design patterns, I also realized the final project my group and I are developing, [Hawaii Covid Convo](https://hi-covid-convo.github.io), also implements a Singleton design pattern since the user gives a review they have to fill out, which will eventually be displayed in the Analytics page along with an array of reviews created by other various users.
 
