@@ -66,8 +66,8 @@
       "level": "",
       "keywords": [
         "Adobe (PhotoShop, DreamWeaver, Illustrator, etc.)",
-        "WordPress",
-        "TeamDynamix"
+        "Microsoft Office Suite",
+        "Git/Github"
       ]
     }
   ],
@@ -103,7 +103,7 @@
     {
       "company": "Expressions Photography",
       "position": "Seasonal Photographer/Sales Associate",
-      "website": "",
+      "website": "https://expressionshawaii.net/",
       "startDate": "2018-11-11",
       "endDate": "2020-03-18",
       "summary": "",
@@ -115,7 +115,7 @@
     {
       "company": "Life Impressions Hawaii",
       "position": "Graphic Intern/Web Designer",
-      "website": "",
+      "website": "http://lifeimpressionshi.com/",
       "startDate": "2018-12-10",
       "endDate": "2019-06-29",
       "summary": "",
@@ -128,7 +128,7 @@
     {
       "company": "Hawaii Pacific University",
       "position": "Media Lab / Technical Analyst Assistant",
-      "website": "",
+      "website": "https://www.hpu.edu/",
       "startDate": "2018-08-20",
       "endDate": "2019-04-30",
       "summary": "",
