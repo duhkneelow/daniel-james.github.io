@@ -11,7 +11,7 @@ labels:
   - Final Project
   - DialogFlow
   - Learning
-  summary: A project incorporating a Chatbot that provides useful resources for the state of Hawaii created by me and some fellow group contributors!
+summary: A project incorporating a Chatbot that provides useful resources for the state of Hawaii created by me and some fellow group contributors!
 ---
 <img class="ui large centered image" src="../images/logo.png">
 As this being my first semester at UH Manoa and ever since I took a gap year, ICS 314 definitely challenged me on how much I have grasped from the coding exercises throughout the semester.  Albeit intense, the class overall was nothing but non-stop fun as I enjoyed developing applications, including the final project.  For the final project, my group and I decided to create [Hawaii Covid Convo](https://cece-convo.xyz/#/), an application where users interact with our Chatbot, Cece (our nickname for Covid Convo), and discuss questions they have in regards to the state of Hawaii and other questions associated with the COVID-19 pandemic.  Cece responds to more than 50 questions and to know the questions, please refer to our [application](https://hi-covid-convo.github.io/)!
