@@ -18,14 +18,14 @@ As this being my first semester at UH Manoa and ever since I took a gap year, IC
 
 ## Major Project Contributions
 ### Application UI and Responsiveness
-<img class="ui large centered image" src="../images/chatbot_ui.jpg">
+<img class="ui huge centered image" src="../images/chatbot_ui.jpg">
 Since the header of the Chatbot iframe had a dark-colored header, I inspected it with a color picker to appropriately blend in with the Chatbot page.  As a result, I believe the dark gray color seamlessly integrated our application (with the exception of the landing page as the image was shot by the spectacular Sydney Dempsey) to indicate the dark times we are currently experiencing with the pandemic, but eventually seeing the light at the end of the tunnel.  Throughout the project, I dabbled on the responsiveness of our application to ensure it is suitable for any electronic device.  I also handled any front-end development errors to make sure all our links worked and make our overall application as error free as possible.
 
 ### Logo
 I also created the logo (image above) and played around with the word placement of our application name for the logo to symbolize what our project is about.
 
 ### DialogFlow Intents and Phrases
-<img class="ui large centered image" src="../images/chatbot.png">
+<img class="ui huge centered image" src="../images/chatbot.png">
 One major contribution my teammates and I did for the final project was implementing/researching [Google DialogFlow](https://cloud.google.com/dialogflow), which was our foundation of the application.  With DialogFlow, I helped out with a portion of the intents in order to give a variety of questions for our Chatbot.  I also helped out with creating training phrases and testing them out to see if they respond with their respective intents.
 
 ## Project Outcomes
