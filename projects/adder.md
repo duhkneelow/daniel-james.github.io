@@ -5,7 +5,7 @@ image: images/adder2.png
 title: Math Adder
 permalink: projects/adder
 # All dates must be YYYY-MM-DD format!
-date: 2020-09-08
+date: 2018-11-20
 labels:
   - JavaScript
   - Internet Programming

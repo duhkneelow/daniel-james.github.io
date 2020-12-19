@@ -5,7 +5,7 @@ image: images/travel2.jpg
 title: Traveling
 permalink: projects/travel
 # All dates must be YYYY-MM-DD format!
-date: 2020-09-08
+date: 2014-08-09
 labels:
   - Travel
   - Adventure
