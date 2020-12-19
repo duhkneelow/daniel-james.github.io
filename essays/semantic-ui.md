@@ -26,7 +26,7 @@ Observing the original website, I immediately noticed there were a lot of linked
   <img src="https://www.worldmarket.com/images/homepage/2020/wk32/a-1-1005-lg.jpg" alt="promo"/>
 </a>
 ```
-just for one image.  As you can see, there are certain ways of properly approaching Semantic UI just like how there are shortcuts to grueling trails when you climb up a mountain.  With motivation and a lot of patience, you would feel like you have reached the top similar to my image of the recreated website below.
+just for one image.  As you can see, there are certain ways of properly approaching Semantic UI just like how there are shortcuts to grueling trails when you climb up a mountain.  With motivation and a lot of patience, you would feel like you have reached the top similar to my image of the recreated website below.<br>
 **Recreated Website (top portion)**
 <img class="ui huge centered image" src="../images/recreation_top.png">
 
