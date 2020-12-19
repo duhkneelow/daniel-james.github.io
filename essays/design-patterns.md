@@ -7,9 +7,10 @@ date: 2020-12-03
 labels:
   - Software Engineering
   - Design Patterns
+  - Learning
 ---
 
-Now when you think of design patterns, I'm pretty sure you guys are literally thinking a specific design that could easily be an implement to your coding assignment.  Well my friend, let me tell you that you are wrong as it is way more than just putting in some lines of code to make it aesthetically pleasing to the user!  A design pattern is a type of solution that could be repurposed/reimplemented in software design applications.  With object orientation, the pattern will display how the classes/objects interact each other without specifying the classes/objects in the final application.  There are tons of design patterns utilized in software design, but there are four commonly used patterns: Factory, Singleton, Observer, and MVC.  With every single adjustment to a design pattern, you would essentially
+Now when you think of design patterns, I'm pretty sure you guys are literally thinking of a specific design that could easily be an implement to your coding assignment.  Well my friend, let me tell you that you are wrong as it is way more than just putting in some lines of code to make it aesthetically pleasing to the user!  A design pattern is a type of solution that could be repurposed/reimplemented in software design applications.  With object orientation, the pattern will display how the classes/objects interact with each other without specifying the classes/objects in the final application.  There are tons of design patterns utilized in software design, but there are four commonly used patterns: Factory, Singleton, Observer, and MVC.  With every single adjustment to a design pattern, you would essentially
 
 ***"Spice a dish with love and it pleases every palate." -Plautus***
 

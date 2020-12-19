@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Developing my Potential with Software Engineering
 # All dates must be YYYY-MM-DD format!
-date: 2020-09-11
+date: 2020-09-04
 labels:
   - Software Engineering
   - Learning
