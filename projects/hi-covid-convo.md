@@ -22,8 +22,7 @@ As this being my first semester at UH Manoa and ever since I took a gap year, IC
 Since the header of the Chatbot iframe had a dark-colored header, I inspected it with a color picker to appropriately blend in with the Chatbot page.  As a result, I believe the dark gray color seamlessly integrated our application (with the exception of the landing page as the image was shot by the spectacular Sydney Dempsey) to indicate the dark times we are currently experiencing with the pandemic, but eventually seeing the light at the end of the tunnel.  Throughout the project, I dabbled on the responsiveness of our application to ensure it is suitable for any electronic device.  I also handled any front-end development errors to make sure all our links worked and make our overall application as error free as possible.
 
 ### Logo
-<img class="ui large centered image" src="../images/logo.png">
-I also created the logo and played around with the word placement of our application name for the logo to symbolize what our project is about.
+I also created the logo (image above) and played around with the word placement of our application name for the logo to symbolize what our project is about.
 
 ### DialogFlow Intents and Phrases
 <img class="ui large centered image" src="../images/chatbot.png">
