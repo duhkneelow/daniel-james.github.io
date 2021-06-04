@@ -58,7 +58,9 @@
         "CSS",
         "Javascript",
         "SQL",
-        "C++"
+        "C++",
+	"React.js"
+	"Semantic UI"
       ]
     },
     {
@@ -80,6 +82,9 @@
       "endDate": "Present",
       "gpa": "",
       "courses": [
+	"Algorithms",
+	"Software Engineering",
+	"Elementary Probability and Statistics"
       ]
     },
     {
@@ -95,13 +100,15 @@
         "Advanced Web Design",
         "Database Technologies",
         "Internet Programming",
-        "Problem Solving & Programming using C++"
+        "Problem Solving & Programming using C++",
+	"Computer Organization",
+	"Operating Systems"
       ]
     }
   ],
   "work": [
     {
-      "company": "Expressions Photography",
+      "company": "Expressions Portrait Design",
       "position": "Seasonal Photographer/Sales Associate",
       "website": "https://expressionshawaii.net/",
       "startDate": "2018-11-11",
