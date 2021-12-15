@@ -27,6 +27,6 @@ Although my team and I were able to successfully create a user-friendly applicat
 Overall, I am happy with the application we developed as a group, and I wish we continued with our progress as I believe we have more ways to satisfy the clients.  However, I hope I do not make the same mistakes again because I might need the doctor if I overwhelm myself.  If I plan to make more applications with a similar template to the one we used this semester, it would be like me going back to the restaurant for the umpteenth time.  To me, I would be OK with it because at least I would be aware what the format looks like and I would be satisfied with the results I will make.  With the tools and tricks we have implemented, I feel ICS 414 has given me a look to what the path of software engineering is.
 
 ## Learn More About our Application
-- To learn more about our application, please click on this [link](https://med-warriors.github.io) as it has directions where you can run our project locally.
 - To view our source code, please refer to this [link](https://github.com/med-warriors/project).
 - To view our deployed application, please refer to this [link](https://medwarriors.meteorapp.com/#/).
+- To learn more about our application, please click on this [link](https://med-warriors.github.io) as it has directions where you can run our project locally.
