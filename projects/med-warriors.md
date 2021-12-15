@@ -37,6 +37,6 @@ Some other functionalities I helped and implemented with my group include:
 One of the setbacks I had before starting ICS 414 was the MATRP format as I was not familiar with it when I took ICS 314 last year.  Despite the learning curve, I believe I made substantial progress for this project as I learned to familiarize the application from time to time and effectively communicated with my group whenever one of us needed help.  This project has to be the best experience I have in terms of teamwork and progress as we had a fun challenge while working on the application.  I also learned I can do more than front-end coding as long as I put in the time and effort to properly create a stunning application for our clients.  Overall, I am satisfied with our performance and I hope to create more applications as time goes by!
 
 ## Learn More About our Application
-To learn more about our application, please click on this [link](https://med-warriors.github.io) as it has directions where you can run our project locally.
-To view our source code, please refer to this [link](https://github.com/med-warriors/project).
-To view our deployed application, please refer to this [link](https://medwarriors.meteorapp.com/#/).
+- To learn more about our application, please click on this [link](https://med-warriors.github.io) as it has directions where you can run our project locally.
+- To view our source code, please refer to this [link](https://github.com/med-warriors/project).
+- To view our deployed application, please refer to this [link](https://medwarriors.meteorapp.com/#/).
